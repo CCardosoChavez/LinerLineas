@@ -1,0 +1,1 @@
+03/04/2023 12:53:00 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295)

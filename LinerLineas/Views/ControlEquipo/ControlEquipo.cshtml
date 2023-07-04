@@ -1,0 +1,40 @@
+﻿@model LinerLineas.Entities.Tablas.Stock
+
+<div class="divSecundario" id="divSecundario">
+    <div class="divContenedorAgregarDanio">
+        <div>
+            <span class="controlEquipo_Subtitulo">Monto de reparación</span>
+        </div>
+
+        <div class="controlEquipo_FormularioCompleto">
+            <div class="controlEquipo_Formulario">
+                <div>
+                    <input type="text" class="form-control" placeholder="USD" id="txtCostoDesperfecto" onkeypress=" return validarSoloNumeros(event, 'lbErrorNumeros', 'txtCostoDesperfecto')" />
+                </div>
+                <div>
+                    <button type="submit" class="btn btnAgregarMonto"  value="" id="btnAgregarDesperfecto">Agregar monto</button>
+                </div>
+            </div>
+            <div class="controlEquipo_ErrorNumeros">
+                <h6 id="lbErrorNumeros"></h6>
+            </div>
+        </div>
+        <div>
+            <h6>Agregué el monto de la reparación en dolares.</h6>
+        </div>
+        <div>
+            <h6 id="h3Cont"></h6>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/js/jsFiles/ControlEquipoContenedores.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/AgregarDanio.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/Utilidades.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/Paginacion.js" type="text/javascript"></script>
+    <script>
+        let URLGetContenedores = "@Url.Action("GetContenedores", "ControlEquipo")";
+    </script>
+}

@@ -1,0 +1,64 @@
+﻿
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div id="dvSeccionesControlSaldos" class="seccionesControlSaldos">
+    <div id="dvControlSaldos" class="controlSaldos">
+        <div class="cardHeader criteriosBusqueda">
+            <h2>Contenedores - Control de Equipo</h2>
+            <div class="fila3Columnas  marginBottom5Px paddingLeft15Px">
+                <div class="dvElementos">
+                    <input type="text" id="txtBusqueda" placeholder="BL / Contenedor / Cliente / Referencia" />
+                </div>
+                <div class="dvElementos enLinea">
+                    <label>Desde</label>
+                    <input type="date" id="txtDesde" value="" title="Desde" />
+
+                </div>
+                <div class="dvElementos enLinea">
+                    <label>Hasta</label>
+                    <input type="date" id="txtHasta" value="" title="Hasta" />
+
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="cardTabla">
+            <table id="tContenedores" class=" table table-bordered table-responsive">
+                <thead>
+                    <tr>
+                        <td class="centrarColumna" hidden>nIdBL</td>
+                        <td class="centrarColumna">BL</td>
+                        <td class="centrarColumna" hidden>nIdContendor</td>
+                        <td class="centrarColumna">CONTENEDOR</td>
+                        <td class="centrarColumna" hidden>nIdReferencia</td>
+                        <td class="centrarColumna">REFERENCIA</td>
+                        <td class="centrarColumna" hidden>nIdCliente</td>
+                        <td class="centrarColumna">CLIENTE</td>
+                        <td class="centrarColumna">MONTO MXN</td>
+                        <td class="centrarColumna">MONTO USD</td>
+                        <td class="centrarColumna">SALDO ADEUDO</td>
+                        <td class="centrarColumna">SALDO</td>
+                        <td class="centrarColumna">ESTATUS REMESA</td>
+                        <td class="centrarColumna" hidden>nIdConfirmacionTesoreria</td>
+                        <td class="centrarColumna">FECHA DE PAGO REMESA</td>
+                        <td class="centrarColumna">ESTATUS DAÑO</td>
+                        <td class="centrarColumna">MONTO DAÑO MXN</td>
+                        <td class="centrarColumna">FECHA DE DAÑO</td>
+                        <td class="centrarColumna">AGREGAR DAÑO</td>
+                    </tr>
+                </thead>
+                <tbody id="tbContenedores">
+
+                </tbody>
+            </table>
+            <div id="dvSpinner" class="centrar invisibilidad">
+                <i class="fa fa-spinner fa-spin spinnerIcon"></i>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/js/jsFiles/ControlEquipo.js" type="text/javascript"></script>
+}

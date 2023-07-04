@@ -1,0 +1,43 @@
+18/03/2023 02:53:53 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+18/03/2023 02:54:17 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 32
+18/03/2023 02:54:28 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+18/03/2023 02:57:07 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+18/03/2023 02:59:24 a. m.: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing. || System.Net.Http ||    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.InsertarReferenciaPago(Referencias referencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 73
+18/03/2023 03:02:19 a. m.: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295) || System.Net.Http ||    at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerReferencias(Referencias referencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 41
+18/03/2023 03:04:36 a. m.: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295) || System.Net.Http ||    at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ComprobarBLValido(BL_I bli) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 138
+18/03/2023 03:04:40 a. m.: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295) || System.Net.Http ||    at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+18/03/2023 03:06:48 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 32
+18/03/2023 03:06:49 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51

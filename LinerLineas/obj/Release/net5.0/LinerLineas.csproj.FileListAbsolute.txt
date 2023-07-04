@@ -1,0 +1,1110 @@
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.json
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Desarrollos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csprojAssemblyReference.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+C:\Desarrollos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.json
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Encodings.Web.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Json.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+D:\Projects\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.AssemblyReference.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache
+D:\Projects\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ISD\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.json
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ClosedXML.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\DocumentFormat.OpenXml.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ExcelNumberFormat.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Humanizer.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Irony.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.xmlworker.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\SixLabors.Fonts.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Convention.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Packaging.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Encodings.Web.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Json.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\XLParser.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.AssemblyReference.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Ejemplo.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\ControlEquipo.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetBLS.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetContenedores.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\DevolucionesAutomaticas\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Devolucion\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSessionPagoReferenciado\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ISD\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Tesoreria\Index.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+C:\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.json
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ClosedXML.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ExcelNumberFormat.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Humanizer.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Irony.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.xmlworker.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\SixLabors.Fonts.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Packaging.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Encodings.Web.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\XLParser.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.AssemblyReference.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Ejemplo.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\ControlEquipo.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetBLS.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetContenedores.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\DevolucionesAutomaticas\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Devolucion\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSessionPagoReferenciado\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ISD\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Tesoreria\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.json
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ClosedXML.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ExcelNumberFormat.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Humanizer.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Irony.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.xmlworker.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\SixLabors.Fonts.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Packaging.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Encodings.Web.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\XLParser.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Ejemplo.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\ControlEquipo.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetBLS.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetContenedores.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\DevolucionesAutomaticas\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Devolucion\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSessionPagoReferenciado\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ISD\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Tesoreria\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.json
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ClosedXML.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ExcelNumberFormat.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Humanizer.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Irony.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.xmlworker.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\SixLabors.Fonts.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Packaging.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Encodings.Web.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\XLParser.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Ejemplo.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\ControlEquipo.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetBLS.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetContenedores.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\DevolucionesAutomaticas\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Devolucion\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSessionPagoReferenciado\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ISD\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Tesoreria\Index.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\appsettings.json
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ClosedXML.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ExcelNumberFormat.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Humanizer.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Irony.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\itextsharp.xmlworker.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\SixLabors.Fonts.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Packaging.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Encodings.Web.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\XLParser.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.AssemblyReference.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Ejemplo.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\ControlEquipo.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetBLS.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetContenedores.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\DevolucionesAutomaticas\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Devolucion\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSessionPagoReferenciado\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\ISD\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\Tesoreria\Index.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\appsettings.json
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.exe
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.deps.json
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.json
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.runtimeconfig.dev.json
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.Views.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ClosedXML.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ExcelNumberFormat.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Humanizer.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Irony.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\itextsharp.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\itextsharp.xmlworker.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\SixLabors.Fonts.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.IO.Packaging.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Text.Encodings.Web.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\System.Text.Json.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\XLParser.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.AssemblyInfo.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.RazorAssemblyInfo.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.Manifest.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\staticwebassets\LinerLineas.StaticWebAssets.xml
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\scopedcss\bundle\LinerLineas.styles.css
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.input.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.TagHelpers.output.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.RazorCoreGenerate.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Ejemplo.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Contenedor\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\ControlEquipo.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetBLS.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\GetContenedores.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\ControlEquipo\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\DevolucionesAutomaticas\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Devolucion\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSesion\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\InicioSessionPagoReferenciado\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\ISD\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Referencias\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\Tesoreria\Index.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.RazorTargetAssemblyInfo.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.Views.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.csproj.CopyComplete
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\ref\LinerLineas.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas\obj\Release\net5.0\LinerLineas.genruntimeconfig.cache

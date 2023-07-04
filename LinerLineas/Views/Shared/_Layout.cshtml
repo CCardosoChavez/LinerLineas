@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Maritimex</title>
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    @* Estilo personalizado *@
+    <link rel="stylesheet" type="text/css" href="~/css/Estilos/EstilosDepostiosEnGarantiacss.css">
+    <link rel="stylesheet" type="text/css" href="~/css/Estilos/Pleca.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/Estilos/Layout.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/Estilos/Tablas.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/Estilos/Referencias.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/Estilos/ControlEquipo.css" />
+    <link rel="stylesheet" href="~/css/styles.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div hidden>
+        <input type="text" id="txt_Bandera_Menu" />
+    </div>
+    @*<header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                <div class="container">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">LinerLineas</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>*@
+
+    @*<div id="dvNavigation" class="navigation">
+            <ul>
+                <li>
+                    <a href="@Url.Action("Index", "Principal")">
+                        <span class="icon"><i class="fa fa-superpowers"></i></span>
+                        <div class="dvWImage">
+                            <div class="imgEmpresa">
+                                <img src="~/images/Logo.png" alt="Alternate Text" />
+                            </div>
+                        </div>
+
+                        <span class="titleLogo"><b>MARITIMEX</b></span>
+                    </a>
+                </li>
+                <li id="liReferencias" hidden>
+                    <a href="@Url.Action("Index", "Referencias")" title="Depósitos en Garantía">
+                        <span class="icon"><i class="fa fa-usd" aria-hidden="true"></i></span>
+                        <span class="title">Referencias</span>
+                    </a>
+                </li>
+                <li id="liDevolucion">
+                        <a href="@Url.Action("Index", "Devolucion")" title="Contenedores">
+                            <span class="icon"><i class="fa fa-reply" aria-hidden="true"></i></span>
+                            <span class="title">Devolución DG</span>
+                        </a>
+                    </li>
+                <li id="liControlEquipo">
+                        <a href="@Url.Action("Index", "ControlEquipo")" title="Contenedores">
+                            <span class="icon"><i class="fa fa-wrench" aria-hidden="true"></i></span>
+                            <span class="title">Agregar Daño a Contenedor</span>
+                        </a>
+                    </li>
+                    <li id="liDevolucionesAutomaticas">
+                        <a href="@Url.Action("Index", "DevolucionesAutomaticas")" title="Contenedores">
+                            <span class="icon"><i class="fa fa-reply" aria-hidden="true"></i></span>
+                            <span class="title">Devoluciones Automáticas</span>
+                        </a>
+                    </li>
+                <li id="liControlEquipoDevAuto" hidden>
+                    <a href="@Url.Action("GetBLS", "ControlEquipo")" title="DevolucionesAutomaticas">
+                        <span class="icon"><i class="fa fa-briefcase" aria-hidden="true"></i></span>
+                        <span class="title">Control de Equipo</span>
+                    </a>
+                </li>
+                <li id="liContenedores">
+                        <a href="@Url.Action("Index", "ControlEquipo")" title="Contenedores">
+                            <span class="icon"><i class="fa fa-ship"></i></span>
+                            <span class="title">Control de Equipos</span>
+                        </a>
+                    </li>
+               <li id="liCartaEncomienda">
+                        <a href="@Url.Action("Index", "CartaEncomienda")" title="Carta Encomienda">
+                            <span class="icon"><i class="fa fa-file-text"></i></span>
+                            <span class="title">Carta Encomienda</span>
+                        </a>
+                    </li>
+                    <li id="liControlSaldos">
+                        <a href="@Url.Action("Index", "ControlSaldos")" title="Cantrol de Saldos">
+                            <span class="icon"><i class="fa fa-usd"></i></span>
+                            <span class="title">Control de Saldos</span>
+                        </a>
+                    </li>
+                    <li id="liClientes" class="invisibilidad">
+                        <a href="@Url.Action("Clientes", "Usuarios")" title="Clientes">
+                            <span class="icon"><i class="fa fa-user"></i></span>
+                            <span class="title">Clientes</span>
+                        </a>
+                    </li>
+                    <li id="liAgentesAduanales" class="invisibilidad">
+                        <a href="@Url.Action("AgentesAduanales", "Usuarios")" title="Agentes Aduanales">
+                            <span class="icon"><i class="fa fa-user"></i></span>
+                            <span class="title">Agentes Aduanales</span>
+                        </a>
+                    </li>
+                <li id="liCerrarSesion">
+                        <a href="@Url.Action("Index", "InicioSesion")" title="Cerrar Sesión" id="btnCerrarSesion">
+                            <span class="icon"><i class="fa fa-sign-out" aria-hidden="true"></i></span>
+                            <span class="title">Cerrar Sesión</span>
+                        </a>
+                    </li>
+            </ul>
+        </div>*@
+
+    @*<div id="dvTopbar" class="divTopbar">*@
+    @*<div class="toggle" id="toggle"></div>*@
+
+    @*<div class="divMenuDesplegable">
+            <nav id="Menu" class="menu">
+                <ul>
+                    <li id="liIconoMenu" onclick="mostrarPaginas()">
+                        <i class="fa fa-bars iconoMenu" aria-hidden="true" style="font-size: 25px;"></i>
+                        <ul class="ulMenu">
+                            <li id="liEnlaceReferencias" hidden><a href="@Url.Action("Index", "Referencias")" title="Depósitos en Garantía">Referencias</a></li>
+                            <li id="liEnlaceControlEquipo" hidden><a href="@Url.Action("GetBLS", "ControlEquipo")" title="DevolucionesAutomaticas">Control de Equipo</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>*@
+
+    @*<div class="divBotonRecarga">
+            <button type='submit' id='btnRecargar'  onclick="location.reload()"><i class="fa fa-refresh" aria-hidden="true"></i></button>
+        </div>*@
+    @*</div>*@
+    <div class="divPrincipal">
+        <div class="plecaDePosicionamiento" id="plecaDePosicionamiento"></div>
+        <div class="divIconoMenu" id="divIconoMenu">
+            <div class="pleca_MenuDesplegable" id="pleca_MenuDesplegable"><i class="fa fa-bars" aria-hidden="true" id="pleca_MenuDesplegable_Icon"></i></div>
+        </div>
+        <div class="pleca" id="pleca">
+            <div class="pleca_Logo" id="pleca_Logo">
+                <img class="pleca_Logo_Imagen" id="pleca_Logo_Imagen" src="~/images/LogoRenderizado.png" />
+            </div>
+            <div class="pleca_Menu" id="pleca_Menu">
+                <a href="@Url.Action("Index", "Referencias")" class="pleca_Menu_Enlace enlaceMouseOver" title="Depósitos en Garantía" id="pleca_Menu_Referencias_Enlace" onmouseover="agrandarPleca()" hidden>
+                    <span class="pleca_Menu_Icon" id="pleca_Menu_Referencias_Icon"><i class="fa fa-usd pleca_Menu_Icon" aria-hidden="true" id="pleca_Menu_Referencias_Icon"></i></span>
+                    <span class="pleca_Menu_Title" id="pleca_Menu_Referencias_Title">Referencias</span>
+                </a>
+                <a href="@Url.Action("GetBLS", "ControlEquipo")" class="enlaceMouseOver pleca_Menu_Enlace" title="DevolucionesAutomaticas" id="pleca_Menu_ControlEquipo_Enlace" onmouseover="agrandarPleca()" hidden>
+                    <span class="pleca_Menu_Icon" id="pleca_Menu_ControlEquipo_Icon"><i class="fa fa-ship pleca_Menu_Icon" id="pleca_Menu_ControlEquipo_Icon"></i></span>
+                    <span class="pleca_Menu_Title" id="pleca_Menu_ControlEquipo_Title">Control de Equipo</span>
+                </a>
+                <a href="@Url.Action("Index", "Tesoreria")" class="enlaceMouseOver pleca_Menu_Enlace" title="DevolucionesAutomaticas" id="pleca_Menu_Tesoreria_Enlace" onmouseover="agrandarPleca()" hidden>
+                    <span class="pleca_Menu_Icon" id="pleca_Menu_Tesoreria_Icon"><i class="fa fa-university pleca_Menu_Icon" aria-hidden="true"></i></span>
+                    <span class="pleca_Menu_Title" id="pleca_Menu_Tesoreria_Title">Tesorería</span>
+                </a>
+            </div>
+        </div>
+        @RenderBody()
+    </div>
+
+    @*<footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; @DateTime.Now.Year - Frontera 67 Col. Tizapán San Ángel | Álvaro Obregón |  C.P. 01090 Ciudad de México | Tel. 55 5089 2222</p>
+            </div>
+        </footer>*@
+    @*<script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>*@
+
+    <script src="~/js/jquery-3.6.0.min.js" type="text/javascript"></script>
+    <script src="~/js/sweetalert2.all.min.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/_LayoutJS.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/Pleca.js" type="text/javascript"></script>
+
+    <script>
+        let pathTesoreria ="@Url.Action("Index", "Tesoreria")";
+    </script>
+    <script>
+        let pathControlEquipo ="@Url.Action("GetBLS", "ControlEquipo")";
+    </script>
+    <script>
+        let pathReferencias ="@Url.Action("Index", "Referencias")";
+    </script>
+
+    @*<script src="~/js/jsFiles/Eventos.js" type="text/javascript"></script>*@
+
+    @await RenderSectionAsync("Scripts", required: false)
+    @*<script src="~/js/jsFiles/Contenedor.js" type="text/javascript"></script>*@
+</body>
+</html>

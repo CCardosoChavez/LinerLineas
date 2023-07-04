@@ -1,0 +1,59 @@
+﻿
+<div id="dvSeccionesControlSaldos" class="seccionesControlSaldos">
+    <div id="dvControlSaldos" class="controlSaldos">
+        <div class="cardHeader criteriosBusqueda">
+            <h2>Contenedores</h2>
+            <div class="fila3Columnas  marginBottom5Px paddingLeft15Px">
+                <div class="dvElementos">
+                    <input type="text" id="txtBusqueda" placeholder="BL / Contenedor / Cliente / Referencia" />
+                </div>
+                <div class="dvElementos enLinea">
+                    <label>Desde</label>
+                    <input type="date" id="txtDesde" value="" title="Desde" />
+
+                </div>
+                <div class="dvElementos enLinea">
+                    <label>Hasta</label>
+                    <input type="date" id="txtHasta" value="" title="Hasta" />
+
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="cardTabla">
+            <table id="tContenedores" class=" table table-bordered table-responsive">
+                <thead>
+                    <tr>
+                        <td class="centrarColumna">BL</td>
+                        <td class="centrarColumna">CONTENEDOR</td>
+                        <td class="centrarColumna" hidden>nIdReferencia</td>
+                        <td class="centrarColumna">REFERENCIA</td>
+                        <td class="centrarColumna" hidden>nIdCliente</td>
+                        <td class="centrarColumna">CLIENTE</td>
+                        <td class="centrarColumna">MONTO MXN</td>
+                        <td class="centrarColumna">MONTO USD</td>
+                        <td class="centrarColumna">FECHA DEL DEPÓSITO</td>
+                        <td class="centrarColumna" hidden>nIdConfirmacionTesoreria</td>
+                        <td class="centrarColumna">ESTATUS DEVOLUCIÓN DEPO_GTIA</td>
+                        <td class="centrarColumna">ESTATUS TESORERÍA</td>
+                        <td class="centrarColumna">FECHA DEVOLUCION DEPO_GTIA</td>
+                        <td class="centrarColumna">ADEUDO DEPOSITO</td>
+                    </tr>
+                </thead>
+                <tbody id="tbContenedores">
+                    <tr>
+
+                    </tr>
+                </tbody>
+            </table>
+            <div id="dvSpinner" class="centrar invisibilidad">
+                <i class="fa fa-spinner fa-spin spinnerIcon"></i>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/js/jsFiles/Contenedor.js" type="text/javascript"></script>
+}

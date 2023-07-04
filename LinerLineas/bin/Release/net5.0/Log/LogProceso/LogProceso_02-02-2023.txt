@@ -1,0 +1,14 @@
+02/02/2023 10:05:26 a. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio RFC_PILDG2209220021.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+02/02/2023 10:05:26 a. m.: SolicitarDevolucion()=> Se envió la solicitud con exito con los datos bancarios: Razon Social: Cesar Cardoso, Banco: , Clave Bancaria: 1234213421, Cuenta Bancaria: 1234213421 y el archivo RFC_PILDG2209220021.pdf 
+02/02/2023 11:06:44 a. m.: ReferenciasHttp ------- ObtenerDatosPDF()=> : Se obtuvieron los datos para generar el PDF de la referencia PILDG2302010014 
+02/02/2023 11:06:47 a. m.: CrearPDF - Utilidades --- CrearArchvioPDF() => Se genero el PDF en mermoria para la referencia PILDG2302010014
+02/02/2023 12:50:35 p. m.: ReferenciasHttp ------- ObtenerDatosPDF()=> : Se obtuvieron los datos para generar el PDF de la referencia PILDG2302010014 
+02/02/2023 12:50:37 p. m.: CrearPDF - Utilidades --- CrearArchvioPDF() => Se genero el PDF en mermoria para la referencia PILDG2302010014
+02/02/2023 01:03:50 p. m.: EnvioCorreo - Utilidades ------- EnviarCorreo()=> : Se envío el correo para cesarcardosoch16@gmail.com con el asunto Datos bancarios para solicitud de depósito en garantía incorrectos y el archvio 
+02/02/2023 01:03:50 p. m.: TesoreriaController ------- SentEmail()=> Se envió el correo para cesarcardosoch16@gmail.com con el asunto: Datos bancarios para solicitud de depósito en garantía incorrectos 
+02/02/2023 03:10:51 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio CONSTANCIA SITUACION FISCAL MEXMARINE_PILDG2209220021.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+02/02/2023 03:10:53 p. m.: SolicitarDevolucion()=> Se envió la solicitud con exito con los datos bancarios: Razon Social: Daniel , Banco: , Clave Bancaria: 2222222222, Cuenta Bancaria: 111111111 y el archivo CONSTANCIA SITUACION FISCAL MEXMARINE_PILDG2209220021.pdf 
+02/02/2023 03:12:05 p. m.: EnvioCorreo - Utilidades ------- EnviarCorreo()=> : Se envío el correo para cesarcardosoch16@gmail.com con el asunto Datos bancarios para solicitud de depósito en garantía incorrectos y el archvio 
+02/02/2023 03:12:05 p. m.: TesoreriaController ------- SentEmail()=> Se envió el correo para cesarcardosoch16@gmail.com con el asunto: Datos bancarios para solicitud de depósito en garantía incorrectos 
+02/02/2023 03:13:21 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio CONSTANCIA SITUACION FISCAL NAVIFLET_PILDG2209220021.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+02/02/2023 03:13:22 p. m.: SolicitarDevolucion()=> Se envió la solicitud con exito con los datos bancarios: Razon Social: Daniel, Banco: , Clave Bancaria: 44444444444, Cuenta Bancaria: 33333333333 y el archivo CONSTANCIA SITUACION FISCAL NAVIFLET_PILDG2209220021.pdf 

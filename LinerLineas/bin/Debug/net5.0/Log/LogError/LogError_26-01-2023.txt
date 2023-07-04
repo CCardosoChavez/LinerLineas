@@ -1,0 +1,13 @@
+26/01/2023 02:30:19 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+26/01/2023 02:32:08 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+26/01/2023 04:03:15 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+26/01/2023 06:25:59 p. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+26/01/2023 07:45:57 p. m.: TesoreriaController ------- DownloadReporte()=> Se generó el reporte Excel de los registros de datos bancarios con el ID Opcion de Busqueda: 5 con la fecha inicial  y la fecha final 

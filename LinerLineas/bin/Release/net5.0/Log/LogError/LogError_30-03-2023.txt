@@ -1,0 +1,3 @@
+30/03/2023 07:29:22 a. m.: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing. || System.Net.Http ||    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerReferencias(Referencias referencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 41

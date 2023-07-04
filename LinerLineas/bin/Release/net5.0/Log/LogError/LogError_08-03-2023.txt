@@ -1,0 +1,276 @@
+08/03/2023 08:58:15 a. m.: The type initializer for 'iTextSharp.tool.xml.exceptions.LocaleMessages' threw an exception. || itextsharp.xmlworker ||    at iTextSharp.tool.xml.exceptions.LocaleMessages.GetInstance()
+   at iTextSharp.tool.xml.net.exc.NoImageException..ctor(String src, Exception e)
+   at iTextSharp.tool.xml.net.ImageRetrieve.RetrieveImage(String src)
+   at iTextSharp.tool.xml.html.Image.End(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.html.AbstractTagProcessor.EndElement(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.pipeline.html.HtmlPipeline.Close(IWorkerContext context, Tag t, ProcessObject po)
+   at iTextSharp.tool.xml.XMLWorker.EndElement(String tag, String ns)
+   at iTextSharp.tool.xml.parser.XMLParser.EndElement()
+   at iTextSharp.tool.xml.parser.state.SelfClosingTagState.Process(Char character)
+   at iTextSharp.tool.xml.parser.XMLParser.ParseWithReader(TextReader reader)
+   at iTextSharp.tool.xml.parser.XMLParser.Parse(TextReader reader)
+   at iTextSharp.tool.xml.XMLWorkerHelper.ParseXHtml(PdfWriter writer, Document doc, TextReader inp)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 08:58:29 a. m.: The type initializer for 'iTextSharp.tool.xml.exceptions.LocaleMessages' threw an exception. || itextsharp.xmlworker ||    at iTextSharp.tool.xml.exceptions.LocaleMessages.GetInstance()
+   at iTextSharp.tool.xml.net.exc.NoImageException..ctor(String src, Exception e)
+   at iTextSharp.tool.xml.net.ImageRetrieve.RetrieveImage(String src)
+   at iTextSharp.tool.xml.html.Image.End(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.html.AbstractTagProcessor.EndElement(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.pipeline.html.HtmlPipeline.Close(IWorkerContext context, Tag t, ProcessObject po)
+   at iTextSharp.tool.xml.XMLWorker.EndElement(String tag, String ns)
+   at iTextSharp.tool.xml.parser.XMLParser.EndElement()
+   at iTextSharp.tool.xml.parser.state.SelfClosingTagState.Process(Char character)
+   at iTextSharp.tool.xml.parser.XMLParser.ParseWithReader(TextReader reader)
+   at iTextSharp.tool.xml.parser.XMLParser.Parse(TextReader reader)
+   at iTextSharp.tool.xml.XMLWorkerHelper.ParseXHtml(PdfWriter writer, Document doc, TextReader inp)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 08:58:43 a. m.: The type initializer for 'iTextSharp.tool.xml.exceptions.LocaleMessages' threw an exception. || itextsharp.xmlworker ||    at iTextSharp.tool.xml.exceptions.LocaleMessages.GetInstance()
+   at iTextSharp.tool.xml.net.exc.NoImageException..ctor(String src, Exception e)
+   at iTextSharp.tool.xml.net.ImageRetrieve.RetrieveImage(String src)
+   at iTextSharp.tool.xml.html.Image.End(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.html.AbstractTagProcessor.EndElement(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.pipeline.html.HtmlPipeline.Close(IWorkerContext context, Tag t, ProcessObject po)
+   at iTextSharp.tool.xml.XMLWorker.EndElement(String tag, String ns)
+   at iTextSharp.tool.xml.parser.XMLParser.EndElement()
+   at iTextSharp.tool.xml.parser.state.SelfClosingTagState.Process(Char character)
+   at iTextSharp.tool.xml.parser.XMLParser.ParseWithReader(TextReader reader)
+   at iTextSharp.tool.xml.parser.XMLParser.Parse(TextReader reader)
+   at iTextSharp.tool.xml.XMLWorkerHelper.ParseXHtml(PdfWriter writer, Document doc, TextReader inp)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 08:59:09 a. m.: The type initializer for 'iTextSharp.tool.xml.exceptions.LocaleMessages' threw an exception. || itextsharp.xmlworker ||    at iTextSharp.tool.xml.exceptions.LocaleMessages.GetInstance()
+   at iTextSharp.tool.xml.net.exc.NoImageException..ctor(String src, Exception e)
+   at iTextSharp.tool.xml.net.ImageRetrieve.RetrieveImage(String src)
+   at iTextSharp.tool.xml.html.Image.End(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.html.AbstractTagProcessor.EndElement(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.pipeline.html.HtmlPipeline.Close(IWorkerContext context, Tag t, ProcessObject po)
+   at iTextSharp.tool.xml.XMLWorker.EndElement(String tag, String ns)
+   at iTextSharp.tool.xml.parser.XMLParser.EndElement()
+   at iTextSharp.tool.xml.parser.state.SelfClosingTagState.Process(Char character)
+   at iTextSharp.tool.xml.parser.XMLParser.ParseWithReader(TextReader reader)
+   at iTextSharp.tool.xml.parser.XMLParser.Parse(TextReader reader)
+   at iTextSharp.tool.xml.XMLWorkerHelper.ParseXHtml(PdfWriter writer, Document doc, TextReader inp)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 08:59:46 a. m.: The type initializer for 'iTextSharp.tool.xml.exceptions.LocaleMessages' threw an exception. || itextsharp.xmlworker ||    at iTextSharp.tool.xml.exceptions.LocaleMessages.GetInstance()
+   at iTextSharp.tool.xml.net.exc.NoImageException..ctor(String src, Exception e)
+   at iTextSharp.tool.xml.net.ImageRetrieve.RetrieveImage(String src)
+   at iTextSharp.tool.xml.html.Image.End(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.html.AbstractTagProcessor.EndElement(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.pipeline.html.HtmlPipeline.Close(IWorkerContext context, Tag t, ProcessObject po)
+   at iTextSharp.tool.xml.XMLWorker.EndElement(String tag, String ns)
+   at iTextSharp.tool.xml.parser.XMLParser.EndElement()
+   at iTextSharp.tool.xml.parser.state.SelfClosingTagState.Process(Char character)
+   at iTextSharp.tool.xml.parser.XMLParser.ParseWithReader(TextReader reader)
+   at iTextSharp.tool.xml.parser.XMLParser.Parse(TextReader reader)
+   at iTextSharp.tool.xml.XMLWorkerHelper.ParseXHtml(PdfWriter writer, Document doc, TextReader inp)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 09:02:40 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:09:40 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 09:09:40 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:10:16 a. m.: The type initializer for 'iTextSharp.tool.xml.exceptions.LocaleMessages' threw an exception. || itextsharp.xmlworker ||    at iTextSharp.tool.xml.exceptions.LocaleMessages.GetInstance()
+   at iTextSharp.tool.xml.net.exc.NoImageException..ctor(String src, Exception e)
+   at iTextSharp.tool.xml.net.ImageRetrieve.RetrieveImage(String src)
+   at iTextSharp.tool.xml.html.Image.End(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.html.AbstractTagProcessor.EndElement(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.pipeline.html.HtmlPipeline.Close(IWorkerContext context, Tag t, ProcessObject po)
+   at iTextSharp.tool.xml.XMLWorker.EndElement(String tag, String ns)
+   at iTextSharp.tool.xml.parser.XMLParser.EndElement()
+   at iTextSharp.tool.xml.parser.state.SelfClosingTagState.Process(Char character)
+   at iTextSharp.tool.xml.parser.XMLParser.ParseWithReader(TextReader reader)
+   at iTextSharp.tool.xml.parser.XMLParser.Parse(TextReader reader)
+   at iTextSharp.tool.xml.XMLWorkerHelper.ParseXHtml(PdfWriter writer, Document doc, TextReader inp)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 09:23:30 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:28:45 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:35:04 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 09:35:04 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:41:22 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:45:09 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 09:45:09 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:51:54 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 09:51:54 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 09:57:08 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:00:27 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:00:27 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:00:59 a. m.: The type initializer for 'iTextSharp.tool.xml.exceptions.LocaleMessages' threw an exception. || itextsharp.xmlworker ||    at iTextSharp.tool.xml.exceptions.LocaleMessages.GetInstance()
+   at iTextSharp.tool.xml.net.exc.NoImageException..ctor(String src, Exception e)
+   at iTextSharp.tool.xml.net.ImageRetrieve.RetrieveImage(String src)
+   at iTextSharp.tool.xml.html.Image.End(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.html.AbstractTagProcessor.EndElement(IWorkerContext ctx, Tag tag, IList`1 currentContent)
+   at iTextSharp.tool.xml.pipeline.html.HtmlPipeline.Close(IWorkerContext context, Tag t, ProcessObject po)
+   at iTextSharp.tool.xml.XMLWorker.EndElement(String tag, String ns)
+   at iTextSharp.tool.xml.parser.XMLParser.EndElement()
+   at iTextSharp.tool.xml.parser.state.SelfClosingTagState.Process(Char character)
+   at iTextSharp.tool.xml.parser.XMLParser.ParseWithReader(TextReader reader)
+   at iTextSharp.tool.xml.parser.XMLParser.Parse(TextReader reader)
+   at iTextSharp.tool.xml.XMLWorkerHelper.ParseXHtml(PdfWriter writer, Document doc, TextReader inp)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 10:07:42 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:07:42 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:08:25 a. m.: Could not find file 'C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\repmar.png'. || System.Net.Requests ||    at System.Net.FileWebRequest.CreateResponse()
+   at System.Net.FileWebRequest.<>c.<BeginGetResponse>b__59_0(Object s)
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToApm.End[TResult](IAsyncResult asyncResult)
+   at System.Net.FileWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.FileWebRequest.GetResponse()
+   at iTextSharp.text.Image.GetInstance(Uri url, Boolean recoverFromImageError)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 10:12:58 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:12:58 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:13:12 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+08/03/2023 10:14:07 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+08/03/2023 10:14:42 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+08/03/2023 10:15:12 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+08/03/2023 10:18:46 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:18:46 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:22:08 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:22:47 a. m.: Could not find a part of the path 'C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\~\Resources\Imagenes\repmar.png'. || System.Net.Requests ||    at System.Net.FileWebRequest.CreateResponse()
+   at System.Net.FileWebRequest.<>c.<BeginGetResponse>b__59_0(Object s)
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToApm.End[TResult](IAsyncResult asyncResult)
+   at System.Net.FileWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.FileWebRequest.GetResponse()
+   at iTextSharp.text.Image.GetInstance(Uri url, Boolean recoverFromImageError)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 81
+08/03/2023 10:25:59 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:25:59 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:29:35 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:29:35 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:33:34 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:37:27 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:37:27 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:40:35 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:40:35 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:45:23 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:47:35 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:49:35 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:52:43 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:55:33 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 10:57:52 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 10:57:52 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:03:22 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:06:03 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 11:06:03 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:12:23 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 11:12:23 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:16:35 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 11:16:35 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:20:47 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 11:20:47 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:23:07 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:25:02 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:26:39 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:30:13 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:33:38 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 11:33:38 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 11:53:37 a. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 11:53:37 a. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 12:12:03 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 12:12:03 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 12:27:39 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 12:44:35 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:44:57 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:45:05 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:48:02 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:48:08 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:48:08 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:48:11 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:48:11 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:48:50 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:51:51 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:51:54 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 260
+08/03/2023 12:51:54 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:52:00 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 260
+08/03/2023 12:52:00 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:52:10 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 260
+08/03/2023 12:52:31 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:53:18 p. m.: ControlEquipoHttp - GetBLS()=> Result API: False
+08/03/2023 12:53:18 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 260
+08/03/2023 12:53:58 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:57:34 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:57:45 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+08/03/2023 12:57:46 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:57:46 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 186
+08/03/2023 12:58:07 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:58:20 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:58:30 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:58:44 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario()=> Result API: True
+08/03/2023 12:58:46 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:58:49 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:58:55 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 12:59:57 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 01:00:07 p. m.: ControlEquipoHttp - GetBLS()=> Result API: False
+08/03/2023 01:00:07 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+08/03/2023 05:01:37 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+08/03/2023 05:01:37 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35

@@ -1,0 +1,60 @@
+﻿.contenedorPaginador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+}
+.listaPaginacion {
+    background: none;
+    padding: 5px;
+    margin: 10px auto;
+}
+
+.btnIzquierdo {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 2px solid #000;
+    padding: 5px 20px;
+}
+    .btnIzquierdo:hover {
+        cursor: pointer;
+        /*background: #61adfc;*/
+        background-color: #00527d;
+        color: #FFF;
+    }
+
+.btnDerecho {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 2px solid #000;
+    padding: 5px 20px;
+}
+    .btnDerecho:hover {
+        cursor: pointer;
+        /*background: #61adfc;*/
+        background-color: #00527d;
+        color: #FFF;
+    }
+
+.opcionesPaginacion {
+    border: 2px solid #000;
+    border-radius: 2px;
+    padding: 5px 10px;
+}
+
+
+    .opcionesPaginacion:hover {
+        cursor: pointer;
+        /*background: #61adfc;*/
+        background-color: #00527d;
+        color: #FFF;
+    }
+
+.paginaActual {
+    border: 2px solid #000;
+    /*background: #15284b;*/
+    background: #15284B;
+    color: #FFF;
+    cursor: pointer;
+    padding: 5px 10px;
+}

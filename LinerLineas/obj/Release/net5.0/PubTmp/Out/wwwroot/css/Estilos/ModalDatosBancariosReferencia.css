@@ -1,0 +1,214 @@
+﻿/*Esitlos modal*/
+.modalDatosBancarios {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #111111bd;
+    display: flex;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .3s;
+    /*opacity: 1;
+    pointer-events: unset;*/
+}
+
+.modal_container {
+    margin: auto;
+    width: 90%;
+    max-width: 500px;
+    max-height: 90%;
+    border-radius: 6px;
+    background-color: #FFF;
+    /*padding: 20px 20px;*/
+    padding-bottom: 20px;
+    display: grid;
+    gap: 1em;
+    place-items: center;
+    grid-auto-columns: 100%;
+}
+
+.modal_Titulo {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+    .modal_Titulo span {
+        font-size: 22px;
+        color: #FFF;
+    }
+
+.modal_Boton_Salir {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 15px;
+    display: flex;
+    justify-content: right;
+}
+
+    .modal_Boton_Salir div {
+        width: 30px;
+        height: 25px;
+        display: flex;
+        border-radius: 2px;
+        justify-content: center;
+        align-items: center;
+    }
+
+        .modal_Boton_Salir div:hover {
+            background: #ff0000;
+            cursor: pointer;
+            color: #FFF;
+        }
+
+.modal_Boton_Salir_Icono {
+    font-size: 20px;
+    color: #FFF;
+}
+
+.modal--show {
+    opacity: 1;
+    pointer-events: unset;
+    transition: opacity .3s;
+}
+
+
+.divCaja2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 424px;
+    /*padding:20px;*/
+}
+
+.divSubTitulo {
+    /*margin-left: 0px;*/
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.divCargarArchivo {
+    display: flex;
+    margin-left: 20px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    /*flex-direction: row;
+        align-items: center;*/
+}
+
+
+
+    .divCargarArchivo div input[type="text"] {
+        border-radius: 3px;
+        background: #fff;
+        padding: 4px 10px;
+        border: 1px solid #000;
+        font-family: Arial;
+        border: 2px solid #a4a4a4;
+        outline: none;
+        cursor: not-allowed;
+        /*opacity: 0.3;*/
+    }
+
+
+.divCaja2 div input[type="submit"] {
+    margin-top: 20px;
+    background: #18bc9c;
+    color: #fff;
+    font-size: 16px;
+    padding: 4px 25px;
+    /*border-radius: 3px;*/
+    /*margin: 10px 20px;*/
+    margin-left: 20px;
+    border: none;
+    /*opacity: 1;*/
+    cursor: not-allowed;
+    opacity: 0.3;
+}
+
+    .divCaja2 div input[type="submit"]:hover {
+        background: #11826C;
+    }
+
+.custom-input-file {
+    /*background-color: #95a5a6;*/
+    background-color: #15284b;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 0px 10px;
+    padding: 4px 25px;
+    /*border-radius: 3px;*/
+    border: none;
+    justify-content: center;
+    min-height: 15px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    opacity: 1;
+}
+
+    .custom-input-file:hover {
+        opacity: 0.9;
+    }
+
+    .custom-input-file .input-file {
+        border: 1000px solid transparent;
+        cursor: pointer;
+        font-size: 10000px;
+        margin: 0;
+        opacity: 0;
+        outline: 0 none;
+        padding: 0;
+        position: absolute;
+        right: -1000px;
+        top: -1000px;
+    }
+
+.divBtnCargar {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal_header {
+    background: #15284b;
+    width: 100%;
+    padding: 5px;
+    /*margin: -20px -100px -20px -20px;*/
+    /*margin-left: -100px;*/
+}
+.divDatosBancarios{
+    width: 100%;
+}
+
+.divDatosBancarios div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.divDatosBancarios label {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.modal_TxtDatosBancarios {
+    max-width: 200px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.modal_DDLDatosBancarios {
+    max-width: 200px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}

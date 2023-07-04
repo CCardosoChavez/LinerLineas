@@ -1,0 +1,2 @@
+16/02/2023 11:48:15 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio RFC_YMLDG2210170018.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+16/02/2023 11:48:15 p. m.: SolicitarDevolucion()=> Se envió la solicitud con exito con los datos bancarios: Razon Social: Cesar , Banco: , Clave Bancaria: 44665464, Cuenta Bancaria: 564546454 y el archivo RFC_YMLDG2210170018.pdf 

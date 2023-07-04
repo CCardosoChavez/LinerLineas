@@ -1,0 +1,132 @@
+C:\Desarrollos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+C:\Desarrollos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Desarrollos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Desarrollos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Desarrollos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Desarrollos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csprojAssemblyReference.cache
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Desarrollos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb
+D:\Projects\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+D:\Projects\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+D:\Projects\LinerLineas\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+D:\Projects\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+D:\Projects\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+D:\Projects\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.AssemblyReference.cache
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+D:\Projects\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.AssemblyReference.cache
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+C:\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.AssemblyReference.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.AssemblyReference.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.deps.json
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Http.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.AssemblyInfo.cs
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.csproj.CopyComplete
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\ref\LinerLineas.Http.dll
+C:\Users\ccardoso\Downloads\L\LinerLineas.Http\obj\Release\net5.0\LinerLineas.Http.pdb

@@ -1,0 +1,2 @@
+25/01/2023 05:32:39 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio RFC_PILDG2209220021.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+25/01/2023 05:32:39 p. m.: SolicitarDevolucion()=> Se envió la solicitud con exito con los datos bancarios: Razon Social: Daniel Cardoso, Banco: BBVA, Clave Bancaria: 23131231321, Cuenta Bancaria: 123213123 y el archivo RFC_PILDG2209220021.pdf 

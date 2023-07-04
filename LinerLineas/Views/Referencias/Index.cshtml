@@ -1,0 +1,187 @@
+﻿@using LinerLineas.Entities.Tablas;
+@model Datos_Bancarios_Referencia
+<link rel="stylesheet" type="text/css" href="~/css/Paginacion.css" />
+<link rel="stylesheet" type="text/css" href="~/css/Estilos/ModalDatosBancariosReferencia.css" />
+<link rel="stylesheet" type="text/css" href="~/css/Estilos/Referencias.css" />
+<div id="divSecundario" class="divSecundario">
+    @*<div class="divTitulo"><span>Depósitos en Garantía</span></div>*@
+    <div class="contenedorFormularios">
+        <div id="divFormulario">
+            @* Ocultar esta sección cuando se libere Referencias Multiple *@
+            <div class="divFormularioReferencia">
+                <div class="row divControlesReferencia" style="display:none">
+                    <div class="divTitulosGenerarReferencia">
+                        <label class="" style="" id="">BL:</label>
+                    </div>
+                    <div class="col-2">
+                        <input type="text" id="txtBLGeneraReferencia" list="daBLGeneraReferencia" class="form-control" placeholder="BL" value="" />
+                        <input type="text" id="txtDatosBL" class="" hidden value="" />
+                        <label class="text-hide labelError" style="color:red" id="lblError"></label>
+                    </div>
+                    <div class="divTitulosGenerarReferencia" id="divTitulosGenerarReferenciaConsignatario" hidden>
+                        <label class="" style="" id="">CONSIGNATARIO:</label>
+                    </div>
+                    <div class="col-2" id="colConsignatario" hidden>
+                        <input type="text" id="txtConsignatarioGeneraReferencia" class="form-control" placeholder="Consignatario" value="" />
+                        <label style="color:black" id="lblAlerta">Ingresa el nombre del consignatario</label>
+                    </div>
+
+                    <div class="divBtnGenerarReferencia">
+                        <button type="button" id="btnGenerarReferencia" class="btn btn-primary botonPrimario">VALIDAR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="" hidden>
+            <div class="dvElementos"></div>
+        </div>
+
+        @* Busqueda de refecias*@
+        <div class="divFormularioBusqueda">
+            <div class="divSubTitulo"><span>BÚSQUEDA</span></div>
+            <div class="row divControlesBusqueda">
+                <div class="col-md-2 divBusquedaAbierta">
+                    <input type="text" id="txtBusqueda" placeholder="REFERENCIA / BL / CONTENEDOR" class="form-control" />
+                </div>
+                <div class="divBusquedaFecha">
+                    <div class="divFechaDesde">
+                        <span>DESDE: </span>
+                        <input type="date" id="txtDesde" value="" title="Desde" class="form-control" />
+                    </div>
+                    <div class="divFechaHasta">
+                        <span>HASTA: </span>
+                        <input type="date" id="txtHasta" value="" title="Hasta" class="form-control" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @* Tablas *@
+    @*<table id="tReferencias" class="table-bordered">*@
+    <div class="contenedorTabla">
+        <table id="tReferencias" class="tabla">
+            @*<thead class="cabecerasTablas">*@
+            <thead class="cabeceraTabla">
+                <tr>
+                    <td class="centrarColumna"></td>
+                    <td class="centrarColumna" hidden>nIdReferencia</td>
+                    <td class="centrarColumna">REFERENCIA</td>
+                    <td class="centrarColumna">BL</td>
+                    <td class="centrarColumna" hidden>NÚMERO ITINERARIO</td>
+                    <td class="centrarColumna">MONTO MXN</td>
+                    <td class="centrarColumna">MONTO USD</td>
+                    <td class="centrarColumna">FECHA REGISTRO</td>
+                    <td class="centrarColumna">ESTATUS PAGO</td>
+                    <td class="centrarColumna">FECHA DE PAGO</td>
+                    <td class="centrarColumna">MONTO FALTANTE (MXN)</td>
+                    <td class="centrarColumna">LÍNEA</td>
+                    <td class="centrarColumna">BUQUE VIAJE</td>
+                    <td class="centrarColumna">PUERTO</td>
+                    <td class="centrarColumna" hidden>FECHA DE DEVOLUCIÓN</td>
+                    <td class="centrarColumna" hidden>ESTATUS DE DEVOLUCIÓN</td>
+                    <td class="centrarColumna" hidden>ETA</td>
+                    <td class="centrarColumna">PDF REF</td>
+                    <td class="centrarColumna">SOLICITAR DEVOLUCIÓN</td>
+                </tr>
+            </thead>
+            @*<tbody id="tbReferencias" class="bodyTablas"> *@
+            <tbody id="tbReferencias" class="bodyTablas">
+                <tr></tr>
+            </tbody>
+        </table>
+
+        <div class="contenedorPaginador">
+            <ul class="pagination listaPaginacion" id="listaPaginacion"></ul>
+        </div>
+        <div id="dvSpinner" class="centrar invisibilidad">
+            <i class="fa fa-spinner fa-spin spinnerIcon" style="font-size:50px"></i>
+        </div>
+    </div>
+</div>
+
+<section class="modalDatosBancarios" id="modalDatosBancarios">
+    <div class="modal_container">
+        <div class="modal_header">
+            <div class="modal_Boton_Salir"><div id="modal_Boton_Salir"><i class="fa fa-times modal_Boton_Salir_Icono" aria-hidden="true"></i></div></div>
+            <div class="modal_Titulo"><span>Datos bancarios</span></div>
+        </div>
+            @using (Html.BeginForm("SolicitarDevolucion", "Referencias", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {<div class="divCaja2">
+                    @*<div class="divSubTitulo">Carga el archivo</div>*@
+                 <div class="divDatosBancarios">
+                     @Html.HiddenFor(model => model.rREFERENCIAS.nIdReferencia, new { @class = "hidden form-control", autocomplete = "off", id = "Formulario_IdReferencia" })
+                     @Html.HiddenFor(model => model.rREFERENCIAS.sReferencia, new { @class = "hidden form-control", autocomplete = "off", id = "Formulario_sNumeroReferencia" })
+                     @Html.HiddenFor(model => model.nFIIDDATOS_BANCARIOS, new { @class = "hidden form-control", autocomplete = "off", id = "Formulario_nIdDatosBancarios" })
+                     @Html.HiddenFor(model => model.rREFERENCIAS_TESORERIA.sIdUsuario, new { @class = "hidden form-control", autocomplete = "off", id = "Formulario_sIdUsuario" })
+
+                     <div>
+                         <label>Razón social o titular</label>
+                         @Html.TextBoxFor(model => model.sFSRAZONSOCIAL, new { @class = "form-control modal_TxtDatosBancarios", autocomplete = "off", id = "Formulario_txtRazonSocial", @placeholder = "Razón Social / Nombre del titular", @onkeydown = " return validacionesTextbox(event, 'Formulario_lblError','Formulario_txtRazonSocial','letrasNumeros')" })
+                     </div>
+                     <div>
+                         <label>Banco</label>
+                         @if (Model.rBancos_Datos_Bancarios.liBancos == null)
+                         {
+                             @Html.DropDownListFor(model => model.rBancos_Datos_Bancarios.nFIIDBANCO, new SelectList(string.Empty, "Value", "Text"), "Seleccione un Banco", new { @class = "form-control modal_DDLDatosBancarios", @id = "Formulario_ddlBanco" })
+                         }
+                         else
+                         {
+                             @Html.DropDownListFor(model => model.rBancos_Datos_Bancarios.nFIIDBANCO, new SelectList(Model.rBancos_Datos_Bancarios.liBancos, "nFIIDBANCO", "sFSDESCRIPCION"), "Seleccione un Banco", new { @class = "form-control modal_DDLDatosBancarios", @id = "Formulario_ddlBanco" })
+                         }
+                         @*@Html.TextBoxFor(model => model.sFSBANCO, new { @class = "form-control modal_TxtDatosBancarios", autocomplete = "off", @placeholder = "Banco", id = "Formulario_txtBanco", @onkeydown = " return validacionesTextbox(event, 'Formulario_lblError','Formulario_txtBanco','letrasNumeros')" })*@
+                     </div>
+                     <div>
+                         <label>Número de cuenta</label>
+                         @Html.TextBoxFor(model => model.sFSNUMERO_CUENTA, new { @class = "form-control modal_TxtDatosBancarios", autocomplete = "off", @placeholder = "Número de Cuenta", id = "Formulario_txtNumeroCuenta", maxlength = "20", @onkeydown = " return validacionesTextbox(event, 'Formulario_lblError','Formulario_txtNumeroCuenta','numeros')" })
+                     </div>
+                     <div>
+                         <label>Clabe de cuenta</label>
+                         @Html.TextBoxFor(model => model.sFSNUMERO_CLAVE_CUENTA, new { @class = "form-control modal_TxtDatosBancarios", autocomplete = "off", @placeholder = "Número de Cuenta Clave", maxlength = "18", id = "Formulario_txtNumeroCuentaClave", @onkeydown = " return validacionesTextbox(event, 'Formulario_lblError','Formulario_txtNumeroCuentaClave','numeros')" })
+                     </div>
+                     <div>
+                         <label>Correo de contacto</label>
+                         @Html.TextBoxFor(model => model.sFSEMAIL_CONTACTO, new { @class = "form-control modal_TxtDatosBancarios", autocomplete = "off", @placeholder = "Correo de contacto", maxlength = "200", id = "Formulario_txtCorreoContacto" })
+                     </div>
+                     <label id="Formulario_lblError"></label>
+                 </div>
+                    <div class="divCargarArchivo">
+
+                        <div id="divTxtFile">
+                            <input type="text" class="txtFile" id="txtFile" disabled />
+                        </div>
+                        <div id="divFile">
+                            <div class="custom-input-file" id="divCustom-input-file">
+                                <span>Agregar Estado de Cuenta</span>
+                                <input type="file" id="filesB" name="fileToUpload" accept="application/csv" class="input-file" />
+                            </div>
+                        </div>
+                        <div class="datosExtraBusqueda" hidden>
+                            <input type="text" id="txtBooking" name="booking" />
+                            <input type="text" id="txtLinea" name="linea" />
+                            <input type="text" id="txtFechaIngreso" name="fechaIngreso" />
+                        </div>
+                    </div>
+                    <div id="divBtnCargar" class="divBtnCargar">
+                        <input type="submit" class="cargar-Archivo" id="modal_btnAceptar" value="Aceptar" style="font-size:14px;" disabled>
+                    </div>
+                </div>}
+        </div>
+</section>
+@*</div>
+    </div>*@
+
+@section scripts
+{
+    <script>
+        let URLActual = "@Url.Action("Index", "Referencias")";
+        let URLDescargaPDF = "@Url.Action("DescargarPDF", "Referencias")";
+    </script>
+    <script>
+        let ResultDatosBancarios ="@(Html.Raw(ViewBag.EstatusDatosGuardados))";
+    </script>
+    <script src="~/js/jsFiles/Referencias.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/ModalDatosBancarios.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/Paginacion.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/Utilidades.js" type="text/javascript"></script>
+}

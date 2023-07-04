@@ -1,0 +1,102 @@
+C:\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.deps.json
+C:\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.AssemblyReference.cache
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.Properties.Resources.resources
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.GenerateResource.cache
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfoInputs.cache
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfo.cs
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CoreCompileInputs.cache
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CopyComplete
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.deps.json
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.AssemblyReference.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.Properties.Resources.resources
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.GenerateResource.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfoInputs.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfo.cs
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CopyComplete
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.deps.json
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.Properties.Resources.resources
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.GenerateResource.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfo.cs
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CopyComplete
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.deps.json
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.Properties.Resources.resources
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.GenerateResource.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfo.cs
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CopyComplete
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Desktop\Cargos Locales\CargosLocales_Unificado_2023-05-04\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.deps.json
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.AssemblyReference.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.Properties.Resources.resources
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.GenerateResource.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfoInputs.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfo.cs
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CopyComplete
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.deps.json
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\bin\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineasAPI.Utilities.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\bin\Release\net5.0\LinerLineas.Entities.pdb
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.AssemblyReference.cache
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.Properties.Resources.resources
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.GenerateResource.cache
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfoInputs.cache
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.AssemblyInfo.cs
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.csproj.CopyComplete
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\ref\LinerLineasAPI.Utilities.dll
+C:\Users\ccardoso\Downloads\L\LinerLineasAPI.Utilities\obj\Release\net5.0\LinerLineasAPI.Utilities.pdb

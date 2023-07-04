@@ -1,0 +1,57 @@
+﻿/*.labelError{
+    color: red;
+    margin-top: 5px;
+    font-weight: bold;
+}*/
+
+/*Boton para cuando los datos bancarios fueron marcados como erroneos por Tesorería */
+
+.btnSolicitarDevolucionActualizacion {
+    padding: 8px;
+    border: none;
+    background-color: #C50000;
+    color: #FFF;
+}
+
+    .btnSolicitarDevolucionActualizacion:hover {
+        cursor: pointer;
+        opacity: 0.8;
+        
+    }
+
+/*    .btnSolicitarDevolucionActualizacion i {
+        color: #FFF;
+        font-size: 20px;
+        opacity: 0.7;
+    }*/
+
+.btnSolicitarDevolucion {
+    padding: 8px;
+    border: none;
+    background-color: #15284b;
+    color: #FFF;
+}
+
+    .btnSolicitarDevolucion:hover {
+        cursor: pointer;
+        opacity: 0.9;
+    }
+
+/*Boton para generar la referencia*/
+.botonPrimario {
+    background-color: #15284b;
+    border: none;
+    border-radius:0px;
+}
+
+.botonPrimario:hover {
+    background-color: #15284b;
+    opacity: 0.9;
+    cursor: pointer;
+    /*cursor: not-allowed;*/
+}
+
+    .botonPrimario:disabled {
+        background-color: #15284b;
+        opacity: 0.9;
+    }

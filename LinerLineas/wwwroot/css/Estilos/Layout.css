@@ -1,0 +1,53 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    padding: 0px;
+    min-height: 100vh;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+   /* border: 2px solid #000*/
+}
+
+/*Contenedor Principal*/
+.divPrincipal {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    /*height: 100%;*/
+    height: 850px;
+    flex-wrap: nowrap;
+    /*border: 2px solid #001ab7*/
+}
+
+.divSecundario {
+    width: 85%;
+    height: 100%;
+    padding: 20px;
+    transition: all .3s ease;
+}
+
+.divImagenPrincipal{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.divImagenPrincipal img {
+    width: 30%;
+    margin: auto auto;
+}

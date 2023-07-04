@@ -1,0 +1,34 @@
+14/02/2023 10:40:30 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 10:40:38 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 10:40:41 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 10:42:37 a. m.: One or more errors occurred. (A task was canceled.) || System.Private.CoreLib ||    at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 235
+14/02/2023 10:42:37 a. m.: Object reference not set to an instance of an object. || LinerLineasAPI.Utilities ||    at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 11:46:04 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 11:46:04 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+14/02/2023 11:50:04 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 11:50:04 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+14/02/2023 11:57:14 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 11:57:14 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+14/02/2023 11:58:59 a. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 11:58:59 a. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51
+14/02/2023 12:12:32 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+14/02/2023 12:12:32 p. m.: Value cannot be null. (Parameter 'address') || System.Net.Mail ||    at System.Net.Mail.MailAddress.TryParse(String address, String displayName, Encoding displayNameEncoding, ValueTuple`4& parsedData, Boolean throwExceptionIfFail)
+   at System.Net.Mail.MailAddress..ctor(String address)
+   at LinerLineasAPI.Utilities.EnvioCorreo.EnviarCorreo(String mensaje, String asunto, String sCorreoDestino, String sNombreArchivo, MemoryStream ms) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\EnvioCorreo.cs:line 51

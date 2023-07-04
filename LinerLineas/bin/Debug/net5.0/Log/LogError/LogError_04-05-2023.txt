@@ -1,0 +1,1 @@
+04/05/2023 04:20:51 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\Desktop\PagoReferenciadoLuis\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 38

@@ -1,0 +1,81 @@
+﻿
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div id="divSecundario" class="divSecundario">
+
+    @*<div class="cardHeader criteriosBusqueda">
+            <div class="divDatosBLReferencia">
+                <div class="dvElementos" hidden>
+                    <input type="text" id="txtBusqueda" placeholder="Contenedor" />
+                </div>
+                <div class="dvElementos" style="padding-top:20px">
+                    <span id="spanBL" class="spanBL"></span>
+                </div>
+                <div class="dvElementos" style="padding-top:20px">
+                    <span id="spanReferencia" class="spanReferencia"></span>
+                </div>
+            </div>
+        </div>*@
+
+    <div class="contenedorFormularios">
+        <div class="divFormularioBusqueda">
+            <div class="divDatosBL">
+                <div class="divElementos" hidden>
+                    <input type="text" id="txtBusqueda" placeholder="Contenedor" />
+                </div>
+                <div class="divElementos">
+                    <span id="spanBL" class="spanBL"></span>
+                </div>
+                <div class="divElementos">
+                    <span id="spanReferencia" class="spanReferencia"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="contenedorTabla">
+        <table id="tContenedores" class="tabla">
+            <thead class="cabeceraTabla">
+                <tr>
+                    <td class="centrarColumna">QUITAR DAÑO</td>
+                    <td class="centrarColumna">CONTENEDOR</td>
+                    <td class="centrarColumna" hidden>LINEA</td>
+                    <td class="centrarColumna" hidden>nIdCliente</td>
+                    <td class="centrarColumna" hidden>CLIENTE</td>
+                    <td class="centrarColumna" hidden>ESTATUS DAÑO</td>
+                    <td class="centrarColumna">MONTO DAÑO MXN</td>
+                    <td class="centrarColumna">MONTO DAÑO USD</td>
+                    <td class="centrarColumna">FECHA DE DAÑO</td>
+                    <td class="centrarColumna">CONTENEDOR DEL CLIENTE</td>
+                    <td class="centrarColumna">ESTATUS DEL CONTENEDOR</td>
+                    <td class="centrarColumna" hidden>FECHA DE DEVOLUCION DEL CONTENEDOR</td>
+                    <td class="centrarColumna" hidden>FECHA DE DEVOLUCION</td>
+                    <td class="centrarColumna" hidden>ESTATUS DEVOLUCION</td>
+                    <td class="centrarColumna">DEPOSITO EN GRANTIA PAGADO</td>
+                    <td class="centrarColumna">ASIGNAR ESTATUS DEL CONTENEDOR</td>
+                    <td class="centrarColumna">EDITAR DAÑO</td>
+                </tr>
+            </thead>
+            <tbody id="tbContenedores" class="bodyTablas">
+            </tbody>
+        </table>
+        @*<div class="divSolicitarDevolucion">
+                <input type="button" class="btn btn-primary botonPrimario" id="btn_SolicitarDevolucionDeposito"  value="Solicitar Devolución" disabled/>
+            </div>*@
+        <div id="dvSpinner" class="centrar invisibilidad">
+            <i class="fa fa-spinner fa-spin spinnerIcon" style="font-size:50px"></i>
+        </div>
+    </div>
+</div>
+
+
+@section scripts
+{
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="~/js/jsFiles/ControlEquipoContenedores.js" type="text/javascript"></script>
+    <script src="~/js/jsFiles/Utilidades.js" type="text/javascript"></script>
+    <script>
+        let URLGetBLS = "@Url.Action("GetBLS", "ControlEquipo")";
+        let URLControlEquipo = "@Url.Action("ControlEquipo", "ControlEquipo")";
+    </script>
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LinerLineas.Entities/1.0.0": {
+        "runtime": {
+          "LinerLineas.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinerLineas.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

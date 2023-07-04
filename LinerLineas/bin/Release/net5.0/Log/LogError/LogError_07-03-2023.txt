@@ -1,0 +1,274 @@
+07/03/2023 03:53:25 a. m.: One or more errors occurred. (A task was canceled.) || System.Private.CoreLib ||    at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 235
+07/03/2023 12:23:12 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 12:25:27 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 12:26:01 p. m.: Response status code does not indicate success: 500 (Internal Server Error). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerReferencias(Referencias referencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 41
+07/03/2023 12:26:26 p. m.: Response status code does not indicate success: 500 (Internal Server Error). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerReferencias(Referencias referencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 41
+07/03/2023 12:29:09 p. m.: ReferenciasHttp - ObtenerNumeroTotalReferencias()=> Result API: True, Referencias obtenidas 3
+07/03/2023 12:36:29 p. m.: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing. || System.Net.Http ||    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerReferencias(Referencias referencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 41
+07/03/2023 12:40:05 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 12:40:35 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 413
+07/03/2023 12:40:35 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+07/03/2023 12:40:44 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 413
+07/03/2023 12:40:44 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+07/03/2023 12:40:48 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 413
+07/03/2023 12:40:48 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+07/03/2023 12:43:11 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 12:43:20 p. m.: One or more errors occurred. (Response status code does not indicate success: 404 (Not Found).) || System.Private.CoreLib ||    at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 413
+07/03/2023 12:43:21 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+07/03/2023 12:43:24 p. m.: One or more errors occurred. (Response status code does not indicate success: 404 (Not Found).) || System.Private.CoreLib ||    at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 413
+07/03/2023 12:43:24 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+07/03/2023 12:45:01 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 12:45:21 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 413
+07/03/2023 12:45:21 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+07/03/2023 12:45:25 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ReferenciasHttp.ObtenerDatosPDF(Int32 idReferencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ReferenciasHttp.cs:line 413
+07/03/2023 12:45:25 p. m.: Attempted to divide by zero. || System.Private.CoreLib ||    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at LinerLineasAPI.Utilities.CrearPDF.CrearArchvioPDF(DatosPDF datos) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineasAPI.Utilities\CrearPDF.cs:line 21
+07/03/2023 12:59:20 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 01:03:50 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 01:08:58 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 01:41:40 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 01:41:47 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 408
+07/03/2023 01:41:50 p. m.: ControlEquipoHttp - GetBLS()=> Result API: False
+07/03/2023 01:41:50 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 01:41:53 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 408
+07/03/2023 01:42:06 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 01:45:51 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario()=> Result API: True
+07/03/2023 01:47:32 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 408
+07/03/2023 01:47:35 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 01:52:29 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 01:52:37 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 459
+07/03/2023 01:52:42 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 408
+07/03/2023 01:52:42 p. m.: ControlEquipoHttp - UpdateEstatusDesperfectoContenedores()=> Result API: True
+07/03/2023 01:52:44 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 459
+07/03/2023 01:53:42 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 01:53:53 p. m.: ControlEquipoHttp - UpdateEstatusDesperfectoContenedores()=> Result API: True
+07/03/2023 01:53:53 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 408
+07/03/2023 01:53:56 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 459
+07/03/2023 01:55:01 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 01:55:10 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 01:56:03 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 01:56:12 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 01:56:31 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 01:57:38 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 459
+07/03/2023 01:57:44 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:00:53 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 02:00:56 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:02:38 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 02:06:10 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:06:17 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 458
+07/03/2023 02:08:35 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:08:43 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:09:00 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 410
+07/03/2023 02:11:07 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:11:14 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:20:41 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:24:16 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:24:44 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:24:52 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:24:54 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:34:19 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:35:19 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:36:33 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:46:39 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:47:17 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:47:18 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 461
+07/03/2023 02:49:28 p. m.: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295) || System.Net.Http ||    at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 359
+07/03/2023 02:50:28 p. m.: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295) || System.Net.Http ||    at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 359
+07/03/2023 02:59:00 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 02:59:07 p. m.: Response status code does not indicate success: 400 (Bad Request). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.ObtenerNumeroTotalBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 246
+07/03/2023 03:05:19 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 04:36:14 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295)
+07/03/2023 04:36:14 p. m.: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295) || System.Net.Http ||    at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+07/03/2023 05:02:26 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+07/03/2023 05:02:26 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35

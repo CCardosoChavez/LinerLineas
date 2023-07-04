@@ -1,0 +1,10 @@
+24/01/2023 12:59:18 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> : Entro al chatch. Exception: Could not find a part of the path 'C:\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias\RFC_PILDG2301240018.pdf'.
+24/01/2023 12:59:18 p. m.: SolicitarDevolucion()=> No se pudo guardar el documento RFC para poder solicitar la devolución
+24/01/2023 12:59:57 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> : Entro al chatch. Exception: Could not find a part of the path 'C:\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias\RFC_PILDG2301240018.pdf'.
+24/01/2023 12:59:57 p. m.: SolicitarDevolucion()=> No se pudo guardar el documento RFC para poder solicitar la devolución
+24/01/2023 01:04:59 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio RFC_PILDG2301240018.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+24/01/2023 01:05:53 p. m.: SolicitarDevolucion()=> No se pudo enviar la solicitud de devolución a tesorería 
+24/01/2023 01:06:15 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio RFC_PILDG2301240018.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+24/01/2023 01:06:23 p. m.: SolicitarDevolucion()=> Se envió la solicitud con exito con los datos bancarios: Razon Social: Cesar Cardoso, Banco: BBVA, Clave Bancaria: 21313221312, Cuenta Bancaria: 2132131231 y el archivo RFC_PILDG2301240018.pdf 
+24/01/2023 04:45:02 p. m.: GuardarArchivo - Utilidades ------- SaveFileToDisk()=> Se guardo el archvio RFC_PILDG2301240018.pdf en la ruta C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas\wwwroot\CaratulasBancarias
+24/01/2023 04:45:05 p. m.: SolicitarDevolucion()=> Se envió la solicitud con exito con los datos bancarios: Razon Social: Cesar Cahvez, Banco: Banjico, Clave Bancaria: 2312313221, Cuenta Bancaria: 321321321 y el archivo RFC_PILDG2301240018.pdf 

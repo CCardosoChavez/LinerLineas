@@ -1,0 +1,84 @@
+﻿@{
+    ViewBag.Title = "Liner Lineas";
+}
+
+@{
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Maritimex </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="~/css/Login.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="dvTopbar" class="topbar">
+
+    </div>
+    <div class="container">
+        <div id="PrincipalLoginDiv" class="PrincipalLoginDiv" style="align-content:center; width: 100%;">
+
+            <div class="row text-justify">
+                <div class="ju">
+
+                </div>
+            </div>
+            <div class="row text-center marginTop10Px">
+                <form class="form-inline text-center" role="form" style="text-align: center;">
+                    <div class="row form-group text-center" style="text-align: center;">
+                        <div class="col-md-12 text-center">
+                            <img src="~/images/LogoMaritimex.png" class="img-responsive text-center imgCentrar" width="40%" height="40%" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div id="CuerpoLoginDiv" class="row marginBottom10Px">
+                <div class="row">
+                    <fieldset>
+                        <form class="form-inline" role="form">
+                            <div class="credenciales">
+                                <div id="UsuarioLoginDiv" class="row form-group text-center">
+                                    <div class="col-md-12">
+                                        <input id="txtUsuario" type="text" class="form-control txtInput" placeholder="Usuario"/>
+                                    </div>
+                                </div>
+                                <div id="ContraseñaLoginDiv" class="row form-group text-center">
+                                    <div class="col-md-12">
+                                        <input id="txtContrasena" type="password" class="form-control txtInput" placeholder="Contraseña"/>
+                                    </div>
+                                </div>
+                                <div id="MuestraContraseñaDiv" class="row form-group text-center">
+                                    <div class="col-md-12">
+                                        <input type="checkbox" id="chkMuestraContraseña" value="Mostrar contraseña" onclick="MuestraTexto('txtContrasena')" />
+                                        <label for="chkMuestraContraseña"> Mostrar contraseña</label><br>
+                                    </div>
+                                </div>
+
+                                <div class="row text-center">
+                                    <div class="col-md-12">
+                                        <button type="submit" id="btnAceptar" class="btn btn-primary btnAceptar">Iniciar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </fieldset>
+                </div>
+            </div>
+        </div>
+
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Frontera 67 Col. Tizapán San Ángel | Álvaro Obregón |  C.P. 01090 Ciudad de México | Tel. 55 5089 2222</p>
+        </footer>
+    </div>
+
+    <script src="~/js/sweetalert2.all.min.js"></script>
+    <script src="~/js/jquery-3.6.0.min.js"></script>
+    <script src="~/js/jsFiles/InicioSesion.js"></script>
+</body>
+</html>

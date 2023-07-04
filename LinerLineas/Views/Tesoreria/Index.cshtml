@@ -1,0 +1,171 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using LinerLineas.Entities.Tablas;
+@model Datos_Bancarios_Referencia
+<link rel="stylesheet" type="text/css" href="~/css/Paginacion.css" />
+<link rel="stylesheet" type="text/css" href="~/css/Estilos/ModalPlantilla.css" />
+<link rel="stylesheet" type="text/css" href="~/css/Estilos/Tesoreria.css" />
+<div id="divSecundario" class="divSecundario">
+    @*<div class="divTitulo"><span>Depósitos en Garantía</span></div>*@
+    <div class="contenedorFormularios">
+
+        @* Busqueda de refecias*@
+        <div class="divFormularioBusqueda">
+            <div class="divSubTitulo"><span>BÚSQUEDA</span></div>
+            <div class="row divControlesBusqueda">
+                <div class="col-md-2 divBusquedaAbierta">
+                    <input type="text" id="txtBusqueda" placeholder="REFERENCIA / CLIENTE" class="form-control" />
+                </div>
+                <div class="divBusquedaFecha">
+                    <div class="divFechaDesde">
+                        <span>DESDE: </span>
+                        <input type="date" id="txtDesde" value="" title="Desde" class="form-control" />
+                    </div>
+                    <div class="divFechaHasta">
+                        <span>HASTA: </span>
+                        <input type="date" id="txtHasta" value="" title="Hasta" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div style="margin-top: 20px;">
+                    <input type="button" id="btnDescargarReferencias" value="EXPORTAR INFORMACIÓN" class="btn form-control btn-DescargarReferencias" onclick="MostrarModal()" />
+                </div>
+            </div>
+
+        </div>
+    </div>
+    @* Tablas *@
+    @*<table id="tReferencias" class="table-bordered">*@
+    <div class="contenedorTabla">
+        <table id="tReferencias" class="tabla">
+            @*<thead class="cabecerasTablas">*@
+            <thead class="cabeceraTabla">
+                <tr>
+                    <td class="centrarColumna" hidden>nIDatosBancos</td>
+                    <td class="centrarColumna"></td>
+                    <td class="centrarColumna">REFERENCIA</td>
+                    <td class="centrarColumna">RAZÓN SOCIAL O TITULAR</td>
+                    <td class="centrarColumna">BANCO</td>
+                    <td class="centrarColumna">CUENTA BANCARIA</td>
+                    <td class="centrarColumna">CLABE BANCARIA </td>
+                    <td class="centrarColumna">CONSIGNATARIO</td>
+                    <td class="centrarColumna">EMAIL DE CONTACTO</td>
+                    <td class="centrarColumna">FECHA DE SOLICITUD</td>
+                    <td class="centrarColumna">MONTO USD</td>
+                    <td class="centrarColumna">MONTO MXN</td>
+                    <td class="centrarColumna">ESTATUS</td>
+                    <td class="centrarColumna">CARATULA BANCARIA</td>
+                    <td class="centrarColumna">VALIDAR SOLICITUD</td>
+                    <td class="centrarColumna" hidden>ID REFERENCIA</td>
+                    <td class="centrarColumna" hidden>NUMERO BL</td>
+                    <td class="centrarColumna" hidden>NUMERO ITINERARIO</td>
+                    <td class="centrarColumna" hidden>CORREO</td>
+                </tr>
+            </thead>
+            @*<tbody id="tbReferencias" class="bodyTablas"> *@
+            <tbody id="tbReferencias" class="bodyTablas">
+                <tr></tr>
+            </tbody>
+        </table>
+
+        <div class="contenedorPaginador">
+            <ul class="pagination listaPaginacion" id="listaPaginacion"></ul>
+        </div>
+        <div id="dvSpinner" class="centrar invisibilidad">
+            <i class="fa fa-spinner fa-spin spinnerIcon" style="font-size:50px"></i>
+        </div>
+    </div>
+</div>
+
+<section class="modal" id="modalReferenciasDatosBancarios">
+    <div class="modal_container">
+        <div class="modal_header">
+            <div class="modal_Boton_Salir"><div id="modal_Boton_Salir"><i class="fa fa-times modal_Boton_Salir_Icono" aria-hidden="true"></i></div></div>
+            <div class="modal_Titulo"><span>Descarga de reportes</span></div>
+        </div>
+        @using (Html.BeginForm("DownloadReporte", "Tesoreria", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="divCaja2">
+                <div class="modal_Formulario">
+                    <div>
+                        <input type="radio" id="rdReferenciasDevueltas" name="OpcionReferencias" class="rdReferencias" value="2" /> <label for="rdReferenciasDevueltas" class="modal_Formulario_Label">Referencias devueltas</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="rdReferenciasNoDevueltas" name="OpcionReferencias" class="rdReferencias" value="3" /> <label for="rdReferenciasNoDevueltas" class="modal_Formulario_Label">Referencias no devueltas</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="rdReferenciasRechazadas" name="OpcionReferencias" class="rdReferencias" value="4" /> <label for="rdReferenciasRechazadas" class="modal_Formulario_Label">Referencias rechazadas</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="rdTodasLasReferencias" name="OpcionReferencias" class="rdReferencias" value="5" /> <label for="rdTodasLasReferencias" class="modal_Formulario_Label">Todas las referencias</label>
+                    </div>
+                    <div class="modal_Fechas">
+                        <div class="modal_Fechas_DivFechaDesde">
+                            <span>Desde: </span>
+                            <input type="date" id="txtDesde" value="" title="Desde" class="form-control" name="daFechaDesde" />
+                        </div>
+                        <div class="modal_Fechas_DivFechaHasta">
+                            <span>Hasta: </span>
+                            <input type="date" id="txtHasta" value="" title="Hasta" class="form-control" name="daFechaHasta" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="divBtnCargar" class="divBtnCargar">
+                <input type="submit" class="cargar-Archivo" id="modal_btnAceptar" value="Descargar" disabled>
+            </div>
+        }
+    </div>
+</section>
+
+<section class="modal" id="modalObservacionesDatosBancarios">
+    <div class="modal_container">
+        <div class="modal_header">
+            <div class="modal_Boton_Salir"><div id="modal_Boton_Salir_Observaciones"><i class="fa fa-times modal_Boton_Salir_Icono" aria-hidden="true"></i></div></div>
+            <div class="modal_Titulo"><span>Observaciones</span></div>
+        </div>
+        <div class="divCaja2">
+            <div class="modal_Formulario">
+                <div>
+                    <textarea id="txtArea_Observaciones" class="modal_TxtAreaObservaciones"></textarea>
+                </div>
+                <div>
+                    <input type="text" id="txt_idDatosBancarios" hidden />
+                    <input type="text" id="txt_idEstatus" hidden />
+                    <input type="text" id="txt_numeroReferencia" hidden />
+                    <input type="text" id="txt_numeroBL" hidden />
+                    <input type="text" id="txt_banco" hidden />
+                    <input type="text" id="txt_numeroCuenta" hidden />
+                    <input type="text" id="txt_claveCuenta" hidden />
+                    <input type="text" id="txt_razonSocial" hidden />
+                    <input type="text" id="txt_correo" hidden />
+                </div>
+            </div>
+        </div>
+        <div id="divBtnCargar" class="divBtnCargar">
+            <input type="submit" class="cargar-Archivo" id="modal_btnAceptar_Observaciones" value="Enviar" disabled>
+        </div>
+    </div>
+</section>
+@*</div>
+    </div>*@
+
+@section scripts
+{
+    <script>
+        let pathCaratulaBancaria ="@(Html.Raw(ViewBag.PathCaratulaBancaria))";
+    </script>
+    <script src="~/js/jsFiles/Tesoreria.js"></script>
+    <script src="~/js/jsFiles/Paginacion.js"></script>
+    <script src="~/js/jsFiles/Utilidades.js"></script>
+    
+    @*<script src="~/js/jsFiles/Referencias.js" type="text/javascript"></script>
+        <script src="~/js/jsFiles/ModalDatosBancarios.js" type="text/javascript"></script>*@
+}
+
+

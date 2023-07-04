@@ -1,0 +1,4 @@
+20/03/2023 09:04:14 p. m.: ReferenciasHttp - ObtenerReferencias()=> Result API: False
+20/03/2023 09:07:17 p. m.: ReferenciasHttp - ObtenerReferencias()=> Result API: True
+20/03/2023 09:12:18 p. m.: ReferenciasHttp - ObtenerReferencias()=> Result API: True
+20/03/2023 10:03:45 p. m.: ReferenciasHttp - ObtenerReferencias()=> Result API: False

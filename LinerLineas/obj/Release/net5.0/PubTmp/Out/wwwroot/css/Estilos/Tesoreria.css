@@ -1,0 +1,87 @@
+﻿.btn-DescargarReferencias {
+    background-color: #15284b;
+    border-radius: 0px;
+    margin-left: 20px;
+    color: #FFF;
+}
+
+    .btn-DescargarReferencias:hover {
+        opacity: 0.9;
+        cursor: pointer;
+    }
+
+.btnMostrarCaratula {
+    padding: 8px;
+    border: none;
+    background-color: none;
+}
+
+    .btnMostrarCaratula:hover {
+       cursor: pointer;
+       opacity: 0.9;
+    }
+
+    .btnMostrarCaratula i {
+        color: #15284b;
+        font-size: 22px;
+    }
+
+.divBtnSolicitudDG{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    .divBtnSolicitudDG button {
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-size: 14px;
+        outline: none;
+        border: none;
+        /*border-radius: 3px;*/
+        /*border: solid 1px #000;*/
+        width: 100px;
+        height: 30px;
+        color: #FFF;
+    }
+
+        .divBtnSolicitudDG button:hover {
+            cursor: pointer;
+            opacity: 0.9;
+        }
+
+.btnAceptarDatosBancarios {
+    background-color: #15284b;
+}
+
+.btnRechazarDatosBancarios {
+    /*background-color: #dc3545;*/
+    background-color: #C50000;
+}
+
+
+/*Elementos exta del formulario*/
+.modal_Fechas{
+    display: flex;
+    flex-direction: column;
+}
+
+.modal_Fechas div span{
+    font-size: 16px;
+    font-weight: bold;
+}
+.modal_Formulario {
+    align-items: center;
+}
+
+.modal_Formulario div {
+    width: 80%;
+    max-width: 100%;
+}
+
+.modal_TxtAreaObservaciones{
+    height: 150px;
+    max-height : 150px;
+    min-height : 150px;
+    font-size: 16px;
+}

@@ -1,0 +1,4 @@
+08/02/2023 09:32:14 a. m.: EnvioCorreo - Utilidades ------- EnviarCorreo()=> : Se envío el correo para cesarcardosoch16@gmail.com con el asunto Datos bancarios para solicitud de depósito en garantía incorrectos y el archvio 
+08/02/2023 09:32:14 a. m.: TesoreriaController ------- SentEmail()=> Se envió el correo para cesarcardosoch16@gmail.com con el asunto: Datos bancarios para solicitud de depósito en garantía incorrectos 
+08/02/2023 09:34:22 a. m.: TesoreriaController ------- DownloadReporte()=> Se generó el reporte Excel de los registros de datos bancarios con el ID Opcion de Busqueda: 4 con la fecha inicial  y la fecha final 
+08/02/2023 09:34:31 a. m.: TesoreriaController ------- DownloadReporte()=> Se generó el reporte Excel de los registros de datos bancarios con el ID Opcion de Busqueda: 5 con la fecha inicial  y la fecha final 

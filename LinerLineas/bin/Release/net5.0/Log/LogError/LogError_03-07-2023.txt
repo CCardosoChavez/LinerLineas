@@ -1,0 +1,16 @@
+03/07/2023 03:49:44 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+03/07/2023 03:49:44 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+03/07/2023 05:34:13 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+03/07/2023 05:34:14 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+03/07/2023 05:53:45 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\source\repos\DepositosEnGarantia\LinerLineas\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35
+03/07/2023 06:21:35 p. m.: InicioSessionPagoReferenciadoHttp - GetDatosUsuario() => : Entro al chatch. Exception: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295)
+03/07/2023 06:21:35 p. m.: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. (localhost:25295) || System.Net.Http ||    at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.InicioSessionPagoReferenciadoHttp.GetDatosUsuario(AspNetUsers usuario) in C:\Users\ccardoso\Downloads\L\LinerLineas.Http\InicioSessionPagoReferenciadoHttp.cs:line 35

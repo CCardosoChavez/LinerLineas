@@ -1,0 +1,85 @@
+05/03/2023 07:02:05 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:03:11 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:03:36 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:04:02 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:04:36 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:07:37 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:08:15 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:11:49 p. m.: ValidarDevolucionRemesa - GetBLS() => : Entro al chatch. Exception: Response status code does not indicate success: 404 (Not Found).
+05/03/2023 07:11:49 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 372
+05/03/2023 07:12:07 p. m.: Response status code does not indicate success: 404 (Not Found). || System.Net.Http ||    at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 372
+05/03/2023 07:50:58 p. m.: ValidarDevolucionRemesa - GetBLS() => : Entro al chatch. Exception: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+05/03/2023 07:50:58 p. m.: ValidarDevolucionRemesa - GetBLS() => : Entro al chatch. Exception: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+05/03/2023 07:50:59 p. m.: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing. || System.Net.Http ||    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 371
+05/03/2023 07:57:03 p. m.: ValidarDevolucionRemesa - GetBLS() => : Entro al chatch. Exception: Object reference not set to an instance of an object.
+05/03/2023 07:57:03 p. m.: Object reference not set to an instance of an object. || LinerLineas.Http ||    at LinerLineas.Http.ControlEquipoHttp.GetBLS(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 374
+05/03/2023 10:17:58 p. m.: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing. || System.Net.Http ||    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 410
+05/03/2023 10:17:59 p. m.: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing. || System.Net.Http ||    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at LinerLineas.Http.ControlEquipoHttp.UpdateEstatusDesperfectoContenedores(Referencias referencia) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 314
+05/03/2023 11:09:54 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 410
+05/03/2023 11:11:28 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 410
+05/03/2023 11:14:19 p. m.: Error converting value {null} to type 'System.DateTime'. Path 'rDESPERFECTO_CONTENEDOR.daFECHA_ALTA', line 143, position 24. || Newtonsoft.Json ||    at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureType(JsonReader reader, Object value, CultureInfo culture, JsonContract contract, Type targetType)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at LinerLineas.Http.ControlEquipoHttp.GetContenedores(DatosBusqueda datosBusqueda) in C:\Users\ccardoso\source\repos\LinerLineas\LinerLineas.Http\ControlEquipoHttp.cs:line 410

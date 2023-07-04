@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online HTML Editor</title>
+</head>
+<body>
+
+    <!--<div style='width: 100%; height: 50px; background-color: #3474b4; text-align: center; padding: 5px'>
+        <span style='color: #000;  font-size: 25px;'>Depósitos en Garantía</span>
+        td style="width: 33%; text-align: right;"><img src="C:/Users/ccardoso/source/repos/LinerLineas/LinerLineas/wwwroot/images/repmar.png" style='width: 25px; height: 25px;' /> </td>
+    </div>-->
+    <div style='width: 100%; height: 100px; background-color: #15274b; text-align: center; padding: 5px'>
+
+        <div style="padding-top: 20px;">
+            <table style='width: 100%;'>
+                <tbody>
+                    <tr>
+                        <td style="width: 33%; text-align: right;"><img src="@RutaImagen" style='width: 25px; height: 25px;' /> </td>
+                        <td style="width: 67%; text-align: left;"><span style='color: #FFF;  font-size: 20px;'>  Representaciones Marítimas</span></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="width: 65%; text-align: center;"><span style='color: #FFF;  font-size: 15px;'>Depósitos en Garantía</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div style='padding: 20px; display: flex;'>
+        <table style='width: 100%;'>
+            <tbody>
+                <tr>
+                    <td style='width: 25%;'>
+                        <table style='font-size: 18px;'>
+                            <tbody>
+                                <tr>
+                                    <td style='font-weight: normal; color: #000;'>Referencia:</td>
+                                </tr>
+                                <tr>
+                                    <td style='display: block; color: #107dac; font-weight: bold; padding-bottom: 20px;'>@REFERENCIA</td>
+                                </tr>
+
+                                <tr>
+                                    <td style='font-weight: normal; color: #000;'>Importe del Pago:</td>
+                                </tr>
+                                <tr>
+                                    <td style='display: block; color: #107dac; font-weight: bold;'>@IMPORTE_PAGO MXN</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+
+                    <td style='width: 20%;'>
+                        <table style='padding: 0px 20px; width: 100px; font-size: 12px;'>
+                            <tbody>
+                                <tr>
+                                    <td style='color: #000; font-weight: normal;'>RFC:</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #107dac; font-weight: bold;'>@RFC</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #000; font-weight: normal; padding-top:10px;'>Razón Social:</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #107dac; font-weight: bold;'>@RAZON_SOCIAL</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #000; font-weight: normal; padding-top: 10px;'>Banco:</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #107dac; font-weight: bold;'>@BANCO</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #000; font-weight: normal; padding-top: 10px;'>Convenio:</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #107dac; font-weight: bold;'>@CONVENIO</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #000; font-weight: normal; padding-top: 10px;'>Clabe Interbancaria:</td>
+                                </tr>
+                                <tr>
+                                    <td style='color: #107dac; font-weight: bold;'>@CLABE_INTERBANCARIA</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+
+                    <td style='width: 45%;'>
+                        <table style='width: 100px; border: 2px solid #F2F2F2; padding: 10px; font-size:12px;'>
+                            <thead>
+                                <tr>
+                                    <td colspan="4" style='text-align: center; color: #107dac; font-weight: bold; padding-top: 5px; padding-bottom: 10px;'>@NOMBRE_CLIENTE</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style='font-weight: bold; padding: 5px 0px 5px 5px;'>RFC</td>
+                                    <td style='padding:5px 0px'>@REGISTRO_FEDERAL_CONTRIBUYENTE_CLIENT</td>
+                                    <td style='font-weight: bold; padding: 5px 0px 5px 5px;'>Estado</td>
+                                    <td style='padding: 5px 5px 5px 0px;'>@ESTADO</td>
+                                </tr>
+                                <tr>
+                                    <td style='font-weight: bold; padding: 5px 0px 5px 5px;'>Calle</td>
+                                    <td style='padding:5px 0px'>@CALLE</td>
+                                    <td style='font-weight: bold; padding: 5px 0px 5px 5px;'>País</td>
+                                    <td style='padding: 5px 5px 5px 0px;'>@PAIS</td>
+                                </tr>
+                                <tr>
+                                    <td style='font-weight: bold; padding: 5px 0px 5px 5px;'>Colonia</td>
+                                    <td style='padding:5px 0px'>@COLONIA</td>
+                                    <td style='font-weight: bold; padding: 5px 0px 5px 5px;'>Código Postal</td>
+                                    <td style='padding: 5px 5px 5px 0px;'>@CODIGO_POSTAL</td>
+                                </tr>
+                                <tr>
+                                    <td style='font-weight: bold; padding: 5px 0px 5px 5px;'>Municipio</td>
+                                    <td style='padding-top:5px; padding-bottom: 5px;'>@MUNICIPIO</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <div class="divListadoBLs">
+        <span style='font-weight: bold; padding-left: 10px; font-size: 12px;'>Listado de BL</span>
+        <table style='width: 100%; margin-top: 2px; border-top: 2px solid #F2F2F2; border-bottom: 2px solid #F9F9F9; font-size: 12px; border-collapse: collapse;'>
+            <thead style='background-color: #15274b; color: #FFF'>
+                <tr style='font-weight: bold; background-color: #15274b;'>
+                    <td style='padding: 5px; width: 75px;'>Número BL</td>
+                    <td style='padding: 5px; width: 50px;'>Buque</td>
+                    <td style='padding: 5px; width: 30px;'>Viaje</td>
+                    <td style='padding: 5px; width: 60px;'>Puerto Descarga</td>
+                    <td style='padding: 5px; width: 45px; text-align: right;'>Tipo Cambio</td>
+                    <td style='padding: 5px; width: 70px;'>Concepto</td>
+                    <td style='padding: 5px; width: 50px; text-align: right;'>Total MXN</td>
+                    <td style='padding: 5px; width: 50px; text-align: right;'>Total USD</td>
+                </tr>
+            </thead>
+            <tbody style="background-color: #F2F2F2">
+                <tr>
+                    <td style='padding: 5px;'>@NUMERO_BL</td>
+                    <td style='padding: 5px;'>@BUQUE</td>
+                    <td style='padding: 5px;'>@VIAJE</td>
+                    <td style='padding: 5px;'>@PUERTO_DESCARGA</td>
+                    <td style='padding: 5px; text-align: right;'>@TIPO_CAMBIO</td>
+                    <td style='padding: 5px;'>Depósito en Garantía</td>
+                    <td style='padding: 5px; text-align: right;'>@TOTAL_MXN </td>
+                    <td style='padding: 5px; text-align: right;'>@TOTAL_USD</td>
+                </tr>
+                <tr>
+                    <td colspan="5" style='text-align: right; font-weight: bold; padding: 5px'>Número Contenedor</td>
+                    <td colspan="3" style='padding: 5px'></td>
+                </tr>
+                @Contenedores
+
+                <tr>
+                    <td colspan="5"></td>
+                    <td style='font-weight: bold; padding: 5px; color: #107dac; text-align: right;'>Importe del Pago</td>
+                    <td style='padding: 5px; font-weight: bold; text-align: right; '>@TOTAL_MXN</td>
+                    <td style='padding: 5px; font-weight: bold; text-align: right; '>@TOTAL_USD</td>
+                </tr>
+            </tbody>
+        </table>
+        <div style='width: 100%; padding: 5px; text-align: center; font-size: 12px;'>
+            <span>@Anio - MARITIMEX S.A. DE C.V.</span>
+        </div>
+    </div>
+</body>
+</html>

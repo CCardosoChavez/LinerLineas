@@ -1,0 +1,154 @@
+﻿/*Tablas*/
+.contenedorTabla {
+    width: 100%;
+    margin-top: 20px;
+    background: #F2F2F2;
+    padding: 10px 0;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabla {
+    margin-top: 20px;
+    width: 95%;
+}
+
+    .tabla td:nth-child(3) {
+        width: 110px;
+    }
+
+    .tabla td:nth-child(4) {
+        width: 110px;
+    }
+
+.cabeceraTabla {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: none;
+    /*background-color: #141f3e;*/
+    background-color: #15284B;
+    color: #FFF;
+}
+
+    .cabeceraTabla tr td {
+        padding: 10px;
+    }
+
+.bodyTablas {
+    font-size: 12px;
+}
+
+    .bodyTablas tr td {
+        padding: 3px 0;
+    }
+
+.btnCrearPdf {
+    padding: 8px;
+    /*border-radius: 4px;
+    border: 1px solid #000;
+    background-color: #0a385a;*/
+    background-color: none;
+    border: none;
+    /*opacity: 0.7;*/
+}
+
+    .btnCrearPdf:hover {
+        cursor: pointer;
+        opacity: 1;
+    }
+
+    .btnCrearPdf i {
+        color: #15284b;
+        font-size: 22px;
+        /*opacity: 0.7;*/
+    }
+
+    .btnCrearPdf i:hover {
+        color: #15284b;
+        font-size: 22px;
+        opacity: 0.9;
+    }
+
+
+.punteroTabla:hover {
+    cursor: pointer;
+    background-color: #FFF;
+    font-weight: bold;
+    /*opacity: 0.5;*/
+}
+
+/*Tabla para mostrar contenedores por referencia*/
+.trContenedoresReferencias {
+    background: #f2f2f2;
+}
+
+.tableContenedoresRefencias {
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+    .tableContenedoresRefencias td:nth-child(2) {
+        width: 150px;
+        text-align: center;
+    }
+
+    .tableContenedoresRefencias thead {
+        font-size: 13px;
+    }
+
+        .tableContenedoresRefencias thead tr {
+            /*background: #15284b;*/
+            background-color: #f2f2f2;
+            color: #000;
+            font-weight: bold;
+        }
+
+            .tableContenedoresRefencias thead tr td {
+                text-align: center;
+            }
+
+    .tableContenedoresRefencias tbody {
+        background: #f2f2f2;
+        font-size: 12px;
+    }
+
+        .tableContenedoresRefencias tbody tr td {
+            text-align: center;
+            padding-bottom: 3px;
+        }
+
+/*.btnSolicitarDevolucion {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #000;
+    background-color: #0a385a;
+    opacity: 0.9;
+    color: #FFF;
+}
+
+    .btnSolicitarDevolucion:hover {
+        cursor: pointer;
+        opacity: 1;
+        font-weight: bold;
+    }
+
+    .btnSolicitarDevolucion i {
+        font-size: 20px;
+        opacity: 0.7;
+    }
+.btnSolicitarDevolucion_Restringido {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #000;
+    background-color: #0a385a;
+    opacity: 0.7;
+}
+
+.btnSolicitarDevolucion_Restringido:hover {
+    cursor: not-allowed;
+    color:#535353;
+}*/

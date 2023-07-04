@@ -1,0 +1,159 @@
+﻿/*Estilos Generales de control de Equipo*/
+.divDatosBL{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.divElementos span{
+    font-size: 30px;
+    font-weight: bold;
+}
+/*Estilos para la vista Control de Equipo Agregar Daño*/
+.controlEquipo_Subtitulo{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.controlEquipo_Formulario {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 10px 10px 0;
+}
+.controlEquipo_Formulario div{
+    padding-left: 10px;
+}
+
+.divContenedorAgregarDanio {
+    background-color: #F2F2F2;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.divContenedorAgregarDanio > div{
+    margin: 0px;
+    padding: 10px;
+}
+
+.divContenedorAgregarDanio div h6{
+    margin: 0px;
+}
+
+.controlEquipo_ErrorNumeros {
+    padding-left: 10px;
+    padding-bottom: 6px;
+}
+
+/*Estilos para Control de Equipo - Contenedores*/
+.divSolicitarDevolucion{
+    margin: 10px 0;
+}
+
+/*Boton para mostrar los contenedores en la vista de BLS*/
+.btnMostrarContenedores {
+    padding: 8px;
+    /*border-radius: 4px;
+    border: 1px solid #000;
+    background-color: #0a385a;*/
+    background-color: none;
+    border: none;
+    /*opacity: 0.7;*/
+}
+
+    .btnMostrarContenedores:hover {
+        cursor: pointer;
+    }
+
+    .btnMostrarContenedores i {
+        color: #15284b;
+        font-size: 22px;
+    }
+
+        .btnMostrarContenedores i:hover {
+            color: #15284b;
+            font-size: 22px;
+            opacity: 0.9;
+        }
+
+/*Botones para marcar los contenedores como con daño y sin daño */
+.btnControlEquipo {
+    width: 120px;
+    border-radius: 0px;
+    cursor: pointer;
+    color: #FFF;
+    outline: none;
+}
+
+.btnAgregarDesperfectoContenedor {
+    background-color: #C50000;
+    outline: none;
+}
+
+.btnAgregarDesperfectoContenedor:hover {
+    opacity: 0.9;
+}
+
+.btnContenedorSinDesperfectoContenedor {
+    background-color: #15284b;
+    outline: none;
+}
+
+.btnContenedorSinDesperfectoContenedor:hover {
+    opacity: 0.8;
+}
+
+/*Botones para editar o eliminar el daño de un contenedor*/
+.btnUpdateDesperfectoContenedor {
+    padding: 8px;
+    background-color: none;
+    border: none;
+}
+
+    .btnUpdateDesperfectoContenedor:hover {
+        cursor: pointer;
+    }
+
+    .btnUpdateDesperfectoContenedor i {
+        color: #15284b;
+        font-size: 23px;
+    }
+
+        .btnUpdateDesperfectoContenedor i:hover {
+            color: #15284b;
+            opacity: 0.9;
+        }
+
+.btnDeleteDesperfectoContenedor {
+    padding: 8px;
+    background-color: none;
+    border: none;
+}
+
+    .btnDeleteDesperfectoContenedor:hover {
+        cursor: pointer;
+    }
+
+    .btnDeleteDesperfectoContenedor i {
+        color: #C50000;
+        font-size: 23px;
+    }
+
+        .btnDeleteDesperfectoContenedor i:hover {
+            color: #C50000;
+            opacity: 0.9;
+        }
+
+/*Boton para generar el daño de un contenedor*/
+
+/*style='color: #fff; background: #008CBA'*/
+.btnAgregarMonto {
+    color: #FFF;
+    background-color: #15284b;
+}
+
+.btnAgregarMonto:hover {
+    opacity: 0.9;
+}
